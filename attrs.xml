@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawableTextView">
+        <attr name="setIconLeft" format="reference" />
+        <attr name="setIconTop" format="reference" />
+        <attr name="setIconRight" format="reference" />
+        <attr name="setIconBottom" format="reference" />
+    </declare-styleable>
+</resources>
